@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: mgenov/podinfo:stg-9ij63o4c
+    image: mgenov/podinfo:stg-8kqfgvn8
     replicaCount: 1
     hpa:
       enabled: true
