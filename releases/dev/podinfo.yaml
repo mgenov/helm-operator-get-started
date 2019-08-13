@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: mgenov/podinfo:dev-32tvlv2r
+    image: mgenov/podinfo:dev-m9b9jzi0
     replicaCount: 1
     hpa:
       enabled: false
